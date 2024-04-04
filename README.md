@@ -16,5 +16,5 @@ Vengono svolti i seguenti punti:
   *   Albero decisionale
   *   Random Forest
   *   Rete neurale
-*   Interpretabilità dei risultati
+* Interpretabilità dei risultati
   * Se ad un cliente viene negata la carta di credito, il team deve essere in grado di fornirgli una motivazione.
