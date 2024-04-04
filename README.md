@@ -9,8 +9,8 @@ Vengono svolti i seguenti punti:
 * Definizione e creazione di una variabile target
 * Inner join dei dataset per ottenere il dataset finale
 * Visualizzazione grafici relativi al dataset ottenuto
-* Preprocessing dati
-* Oversampling
+* Preprocessing dati con `scikit-learn`
+* Oversampling con tecnica SMOTE
 * Modellazione
   *   Regressione logistica
   *   Albero decisionale
